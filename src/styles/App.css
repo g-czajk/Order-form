@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.success {
+    color: #4caf50;
+}
